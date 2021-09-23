@@ -31,7 +31,7 @@ namespace NotificationScheduler.API.Controllers
             }
             else
             {
-                return Ok("Only company created");
+                return Ok(new { Result = "Only company created" });
             }
 
         }
