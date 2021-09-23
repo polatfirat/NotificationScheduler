@@ -1,0 +1,17 @@
+C:\Git\NotificationScheduler\src\NotificationScheduler.Business\bin\Debug\net5.0\NotificationScheduler.Business.deps.json
+C:\Git\NotificationScheduler\src\NotificationScheduler.Business\bin\Debug\net5.0\NotificationScheduler.Business.dll
+C:\Git\NotificationScheduler\src\NotificationScheduler.Business\bin\Debug\net5.0\ref\NotificationScheduler.Business.dll
+C:\Git\NotificationScheduler\src\NotificationScheduler.Business\bin\Debug\net5.0\NotificationScheduler.Business.pdb
+C:\Git\NotificationScheduler\src\NotificationScheduler.Business\bin\Debug\net5.0\NotificationScheduler.Domain.dll
+C:\Git\NotificationScheduler\src\NotificationScheduler.Business\bin\Debug\net5.0\NotificationScheduler.Domain.pdb
+C:\Git\NotificationScheduler\src\NotificationScheduler.Business\obj\Debug\net5.0\NotificationScheduler.Business.csproj.AssemblyReference.cache
+C:\Git\NotificationScheduler\src\NotificationScheduler.Business\obj\Debug\net5.0\NotificationScheduler.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\NotificationScheduler\src\NotificationScheduler.Business\obj\Debug\net5.0\NotificationScheduler.Business.AssemblyInfoInputs.cache
+C:\Git\NotificationScheduler\src\NotificationScheduler.Business\obj\Debug\net5.0\NotificationScheduler.Business.AssemblyInfo.cs
+C:\Git\NotificationScheduler\src\NotificationScheduler.Business\obj\Debug\net5.0\NotificationScheduler.Business.csproj.CoreCompileInputs.cache
+C:\Git\NotificationScheduler\src\NotificationScheduler.Business\obj\Debug\net5.0\NotificationScheduler.Business.csproj.CopyComplete
+C:\Git\NotificationScheduler\src\NotificationScheduler.Business\obj\Debug\net5.0\NotificationScheduler.Business.dll
+C:\Git\NotificationScheduler\src\NotificationScheduler.Business\obj\Debug\net5.0\ref\NotificationScheduler.Business.dll
+C:\Git\NotificationScheduler\src\NotificationScheduler.Business\obj\Debug\net5.0\NotificationScheduler.Business.pdb
+C:\Git\NotificationScheduler\src\NotificationScheduler.Business\bin\Debug\net5.0\NotificationScheduler.Infrastructure.dll
+C:\Git\NotificationScheduler\src\NotificationScheduler.Business\bin\Debug\net5.0\NotificationScheduler.Infrastructure.pdb

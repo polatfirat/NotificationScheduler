@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NotificationScheduler.Business/1.0.0": {
+        "dependencies": {
+          "NotificationScheduler.Domain": "1.0.0"
+        },
+        "runtime": {
+          "NotificationScheduler.Business.dll": {}
+        }
+      },
+      "NotificationScheduler.Domain/1.0.0": {
+        "runtime": {
+          "NotificationScheduler.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotificationScheduler.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NotificationScheduler.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

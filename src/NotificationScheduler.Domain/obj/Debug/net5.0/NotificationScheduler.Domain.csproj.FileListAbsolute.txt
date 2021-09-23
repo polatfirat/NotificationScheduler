@@ -1,0 +1,12 @@
+C:\Git\NotificationScheduler\src\NotificationScheduler.Domain\bin\Debug\net5.0\NotificationScheduler.Domain.deps.json
+C:\Git\NotificationScheduler\src\NotificationScheduler.Domain\bin\Debug\net5.0\NotificationScheduler.Domain.dll
+C:\Git\NotificationScheduler\src\NotificationScheduler.Domain\bin\Debug\net5.0\ref\NotificationScheduler.Domain.dll
+C:\Git\NotificationScheduler\src\NotificationScheduler.Domain\bin\Debug\net5.0\NotificationScheduler.Domain.pdb
+C:\Git\NotificationScheduler\src\NotificationScheduler.Domain\obj\Debug\net5.0\NotificationScheduler.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\NotificationScheduler\src\NotificationScheduler.Domain\obj\Debug\net5.0\NotificationScheduler.Domain.AssemblyInfoInputs.cache
+C:\Git\NotificationScheduler\src\NotificationScheduler.Domain\obj\Debug\net5.0\NotificationScheduler.Domain.AssemblyInfo.cs
+C:\Git\NotificationScheduler\src\NotificationScheduler.Domain\obj\Debug\net5.0\NotificationScheduler.Domain.csproj.CoreCompileInputs.cache
+C:\Git\NotificationScheduler\src\NotificationScheduler.Domain\obj\Debug\net5.0\NotificationScheduler.Domain.dll
+C:\Git\NotificationScheduler\src\NotificationScheduler.Domain\obj\Debug\net5.0\ref\NotificationScheduler.Domain.dll
+C:\Git\NotificationScheduler\src\NotificationScheduler.Domain\obj\Debug\net5.0\NotificationScheduler.Domain.pdb
+C:\Git\NotificationScheduler\src\NotificationScheduler.Domain\obj\Debug\net5.0\NotificationScheduler.Domain.csproj.AssemblyReference.cache

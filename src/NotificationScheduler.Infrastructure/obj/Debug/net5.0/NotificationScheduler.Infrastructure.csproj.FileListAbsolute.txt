@@ -1,0 +1,15 @@
+C:\Git\NotificationScheduler\src\NotificationScheduler.Infrastructure\bin\Debug\net5.0\NotificationScheduler.Infrastructure.deps.json
+C:\Git\NotificationScheduler\src\NotificationScheduler.Infrastructure\bin\Debug\net5.0\NotificationScheduler.Infrastructure.dll
+C:\Git\NotificationScheduler\src\NotificationScheduler.Infrastructure\bin\Debug\net5.0\ref\NotificationScheduler.Infrastructure.dll
+C:\Git\NotificationScheduler\src\NotificationScheduler.Infrastructure\bin\Debug\net5.0\NotificationScheduler.Infrastructure.pdb
+C:\Git\NotificationScheduler\src\NotificationScheduler.Infrastructure\obj\Debug\net5.0\NotificationScheduler.Infrastructure.csproj.AssemblyReference.cache
+C:\Git\NotificationScheduler\src\NotificationScheduler.Infrastructure\obj\Debug\net5.0\NotificationScheduler.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\NotificationScheduler\src\NotificationScheduler.Infrastructure\obj\Debug\net5.0\NotificationScheduler.Infrastructure.AssemblyInfoInputs.cache
+C:\Git\NotificationScheduler\src\NotificationScheduler.Infrastructure\obj\Debug\net5.0\NotificationScheduler.Infrastructure.AssemblyInfo.cs
+C:\Git\NotificationScheduler\src\NotificationScheduler.Infrastructure\obj\Debug\net5.0\NotificationScheduler.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Git\NotificationScheduler\src\NotificationScheduler.Infrastructure\obj\Debug\net5.0\NotificationScheduler.Infrastructure.dll
+C:\Git\NotificationScheduler\src\NotificationScheduler.Infrastructure\obj\Debug\net5.0\ref\NotificationScheduler.Infrastructure.dll
+C:\Git\NotificationScheduler\src\NotificationScheduler.Infrastructure\obj\Debug\net5.0\NotificationScheduler.Infrastructure.pdb
+C:\Git\NotificationScheduler\src\NotificationScheduler.Infrastructure\bin\Debug\net5.0\NotificationScheduler.Domain.dll
+C:\Git\NotificationScheduler\src\NotificationScheduler.Infrastructure\bin\Debug\net5.0\NotificationScheduler.Domain.pdb
+C:\Git\NotificationScheduler\src\NotificationScheduler.Infrastructure\obj\Debug\net5.0\NotificationScheduler.Infrastructure.csproj.CopyComplete

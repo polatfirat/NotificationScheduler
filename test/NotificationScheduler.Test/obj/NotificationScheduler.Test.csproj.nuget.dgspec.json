@@ -1,0 +1,270 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Git\\NotificationScheduler\\test\\NotificationScheduler.Test\\NotificationScheduler.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Business\\NotificationScheduler.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Business\\NotificationScheduler.Business.csproj",
+        "projectName": "NotificationScheduler.Business",
+        "projectPath": "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Business\\NotificationScheduler.Business.csproj",
+        "packagesPath": "C:\\Users\\Polat Fırat\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Polat Fırat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Domain\\NotificationScheduler.Domain.csproj": {
+                "projectPath": "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Domain\\NotificationScheduler.Domain.csproj"
+              },
+              "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Infrastructure\\NotificationScheduler.Infrastructure.csproj": {
+                "projectPath": "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Infrastructure\\NotificationScheduler.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Domain\\NotificationScheduler.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Domain\\NotificationScheduler.Domain.csproj",
+        "projectName": "NotificationScheduler.Domain",
+        "projectPath": "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Domain\\NotificationScheduler.Domain.csproj",
+        "packagesPath": "C:\\Users\\Polat Fırat\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Polat Fırat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Infrastructure\\NotificationScheduler.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Infrastructure\\NotificationScheduler.Infrastructure.csproj",
+        "projectName": "NotificationScheduler.Infrastructure",
+        "projectPath": "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Infrastructure\\NotificationScheduler.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Polat Fırat\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Polat Fırat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Domain\\NotificationScheduler.Domain.csproj": {
+                "projectPath": "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Domain\\NotificationScheduler.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Git\\NotificationScheduler\\test\\NotificationScheduler.Test\\NotificationScheduler.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\NotificationScheduler\\test\\NotificationScheduler.Test\\NotificationScheduler.Test.csproj",
+        "projectName": "NotificationScheduler.Test",
+        "projectPath": "C:\\Git\\NotificationScheduler\\test\\NotificationScheduler.Test\\NotificationScheduler.Test.csproj",
+        "packagesPath": "C:\\Users\\Polat Fırat\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\NotificationScheduler\\test\\NotificationScheduler.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Polat Fırat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Business\\NotificationScheduler.Business.csproj": {
+                "projectPath": "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Business\\NotificationScheduler.Business.csproj"
+              },
+              "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Domain\\NotificationScheduler.Domain.csproj": {
+                "projectPath": "C:\\Git\\NotificationScheduler\\src\\NotificationScheduler.Domain\\NotificationScheduler.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
