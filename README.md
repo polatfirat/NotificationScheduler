@@ -3,8 +3,8 @@
 Database : MSSQL
 DB and tables created with migrate of EF Core. Before running you should change the Connection Strings value in appsettings.Development.json on Development environment.
 
-You can use the link below for API testing
-POST https://localhost:44345/NotificationScheduler/Create
+You can use the link for API testing
+https://localhost:44345/NotificationScheduler/Create    (HTTP POST)
 
 There are 2 enums for CompanyType and Market. You must use values listed below for API Request
 
