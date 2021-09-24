@@ -25,7 +25,7 @@ There are 2 enums for CompanyType and Market. You must use values listed below f
 
 ```sh
     "CompanyName":"Test",
-    "CompanyNumber":"Asdasd34",
+    "CompanyNumber":"2344-23434",
     "CompanyType":1,
     "Market":1
 ```
